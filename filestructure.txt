@@ -1,10 +1,7 @@
-|-- .env.local
 |-- .gitgnore
-|-- .gitignore
 |-- .vercel
     |-- project.json
     |-- README.txt
-|-- env.js
 |-- fluxograma.txt
 |-- form-handler.js
 |-- index.html
